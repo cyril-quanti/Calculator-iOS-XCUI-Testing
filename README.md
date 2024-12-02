@@ -1,3 +1,1 @@
-# Calculator iOS XCUI Testing
-
-This project adds XCUI Testing with Page Object Model to the original Calculator iOS app.
+IyBDYWxjdWxhdG9yIGlPUyBYQ1VJIFRlc3RpbmcKClRoaXMgcHJvamVjdCBhZGRzIFhDVUkgVGVzdGluZyB3aXRoIFBhZ2UgT2JqZWN0IE1vZGVsIHRvIHRoZSBvcmlnaW5hbCBDYWxjdWxhdG9yIGlPUyBhcHA=
